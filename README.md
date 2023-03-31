@@ -25,15 +25,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## App Preview
 
-### Welcome Page
-!["Preview of welcome page."](https://github.com/droverj/pawsome-pals/blob/main/docs/Screenshot%202023-03-27%20at%204.50.00%20PM.png?raw=true)
+### New Profile
+!["Preview of new profile form."](https://github.com/droverj/pawsome-pals/blob/main/docs/Screenshot%202023-03-27%20at%204.53.16%20PM.png?raw=true)
 
 ### Pending Matches
 !["Preview of pending matches."](https://github.com/droverj/pawsome-pals/blob/main/docs/Screenshot%202023-03-27%20at%204.51.58%20PM.png?raw=true)
 
 ### Messages
 !["Preview of sent messages."](https://github.com/droverj/pawsome-pals/blob/main/docs/Screenshot%202023-03-27%20at%204.52.23%20PM.png?raw=true)
-
-### New Profile
-!["Preview of new profile form."](https://github.com/droverj/pawsome-pals/blob/main/docs/Screenshot%202023-03-27%20at%204.53.16%20PM.png?raw=true)
-
